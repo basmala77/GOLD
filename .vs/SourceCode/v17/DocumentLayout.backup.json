@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\GOLD-Parsing-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F585DFFC-4F9E-4968-A60D-DFDA4F73767A}|SourceCode\\SourceCode.csproj|C:\\Users\\hp\\GOLD-Parsing-System\\sourcecode\\pro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F585DFFC-4F9E-4968-A60D-DFDA4F73767A}|SourceCode\\SourceCode.csproj|solutionrelative:sourcecode\\pro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F585DFFC-4F9E-4968-A60D-DFDA4F73767A}|SourceCode\\SourceCode.csproj|C:\\Users\\hp\\GOLD-Parsing-System\\sourcecode\\myparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F585DFFC-4F9E-4968-A60D-DFDA4F73767A}|SourceCode\\SourceCode.csproj|solutionrelative:sourcecode\\myparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F585DFFC-4F9E-4968-A60D-DFDA4F73767A}|SourceCode\\SourceCode.csproj|c:\\users\\hp\\gold-parsing-system\\sourcecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F585DFFC-4F9E-4968-A60D-DFDA4F73767A}|SourceCode\\SourceCode.csproj|solutionrelative:sourcecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F585DFFC-4F9E-4968-A60D-DFDA4F73767A}|SourceCode\\SourceCode.csproj|C:\\Users\\hp\\GOLD-Parsing-System\\sourcecode\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F585DFFC-4F9E-4968-A60D-DFDA4F73767A}|SourceCode\\SourceCode.csproj|solutionrelative:sourcecode\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F585DFFC-4F9E-4968-A60D-DFDA4F73767A}|SourceCode\\SourceCode.csproj|C:\\Users\\hp\\GOLD-Parsing-System\\sourcecode\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F585DFFC-4F9E-4968-A60D-DFDA4F73767A}|SourceCode\\SourceCode.csproj|solutionrelative:sourcecode\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F585DFFC-4F9E-4968-A60D-DFDA4F73767A}|SourceCode\\SourceCode.csproj|C:\\Users\\hp\\GOLD-Parsing-System\\sourcecode\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F585DFFC-4F9E-4968-A60D-DFDA4F73767A}|SourceCode\\SourceCode.csproj|solutionrelative:sourcecode\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\GOLD-Parsing-System\\SourceCode\\Program.cs",
+              "RelativeDocumentMoniker": "SourceCode\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\GOLD-Parsing-System\\SourceCode\\Program.cs",
+              "RelativeToolTip": "SourceCode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:59:06.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pro.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\GOLD-Parsing-System\\SourceCode\\pro.cs",
+              "RelativeDocumentMoniker": "SourceCode\\pro.cs",
+              "ToolTip": "C:\\Users\\hp\\GOLD-Parsing-System\\SourceCode\\pro.cs",
+              "RelativeToolTip": "SourceCode\\pro.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAALMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:53:44.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\GOLD-Parsing-System\\SourceCode\\Form1.cs",
+              "RelativeDocumentMoniker": "SourceCode\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\GOLD-Parsing-System\\SourceCode\\Form1.cs",
+              "RelativeToolTip": "SourceCode\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:26:21.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\GOLD-Parsing-System\\SourceCode\\Form1.cs",
+              "RelativeDocumentMoniker": "SourceCode\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\GOLD-Parsing-System\\SourceCode\\Form1.cs [Design]",
+              "RelativeToolTip": "SourceCode\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:35:58.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\GOLD-Parsing-System\\SourceCode\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SourceCode\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\GOLD-Parsing-System\\SourceCode\\Form1.Designer.cs",
+              "RelativeToolTip": "SourceCode\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:37:35.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyParser.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\GOLD-Parsing-System\\SourceCode\\MyParser.cs",
+              "RelativeDocumentMoniker": "SourceCode\\MyParser.cs",
+              "ToolTip": "C:\\Users\\hp\\GOLD-Parsing-System\\SourceCode\\MyParser.cs",
+              "RelativeToolTip": "SourceCode\\MyParser.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwGEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:37:51.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{7615f12e-922a-545a-b9a0-3305b93d08c0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{da1e233c-cfa8-5021-b06c-abc3d02f44e8}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

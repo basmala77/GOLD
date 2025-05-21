@@ -1,0 +1,60 @@
+"Start Symbol" = <program>
+
+!-------Terminal-----
+Id     = [_]|{letter}{Alphanumeric}*
+Digit  = ('+'|'-')?{digit}+ ('.'{digit}+)? (('e'|('-'|'+'){digit}+) '^' ('+'|'-'){digit}+('.'{digit}+)?)?
+
+!-------Rules---------
+
+<program> ::= 'begin' <stmt_list> 'end'
+
+<stmt_list> ::= <concept>
+              | <concept> <stmt_list>
+
+<concept> ::= <assign>
+           | <if_stmt>
+           | <for_stmt>
+
+<assign> ::= <id> '=' <expr> NEWLINE
+
+<id> ::= Id
+
+<expr> ::= <term> '+' <expr>
+        | <term> '-' <expr>
+        | <term>
+
+<term> ::= <factor> '*' <term>
+        | <factor> '/' <term>
+        | <factor> '%' <term>
+        | <factor>
+
+<factor> ::= <exp> '**' <factor>
+          | <exp>
+
+<exp> ::= '(' <expr> ')'
+       | <id>
+       | <digit>
+
+<digit> ::= Digit
+
+!-------- if statement --------
+
+<if_stmt> ::= 'if' <cond> NEWLINE <stmt_list> 'end'
+           | 'if' <cond> NEWLINE <stmt_list> 'else' NEWLINE <stmt_list> 'end'
+
+<cond> ::= <expr> <op> <expr>
+
+<op> ::= '<' | '>' | '==' | '!='
+
+!-------- for statement --------
+
+<for_stmt> ::= 'for' <id> 'in' <range> NEWLINE <stmt_list> 'end'
+
+<range> ::= '(' <expr> ')' '..' '(' <expr> ')'
+
+<step> ::= <id> '+=' '1'
+         | <id> '-=' '1'
+         | <assign>
+
+<data> ::= 'int' | 'float' | 'double' | 'string'
+
